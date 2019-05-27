@@ -6,8 +6,9 @@ import Header from './screens/header'
 function App() {
     return (
         <div className="App">
-            <Main/>
+
             <Header/>
+            <Main/>
         </div>
     );
 }
